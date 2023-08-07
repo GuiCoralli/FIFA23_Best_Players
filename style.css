@@ -45,8 +45,7 @@ main {
     margin-top: 20px;
     width: 1024px;
     height: 100%;    
-    border: 1px solid red;
-    
+        
     display: grid;
 
     grid-template-columns: repeat(4, 322px); /*Tamanho total da caixa(3da borda)*/
