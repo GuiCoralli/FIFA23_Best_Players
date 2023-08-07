@@ -2,11 +2,11 @@
 Esse projeto foi desenvoldido como forma de fixar os conhencimentos
 adquiridos durante as aulas do curso da Rocketseat do Stage 03 no Explorer.
 
-#Sobre:
+📜 Sobre:
 
 Descubra quais são os 8 maiores jogadores do game FIFA 2023 e curiosidades sobre eles.
 
-🧠Aprendizado:
+🧠 Aprendizado:
 
 Com a criação deste projeto, de forma independente, pude me desafiar e assim fixar os
 conteúdos aprendidos no Stage 03 - Explorer na plataforma de ensino da Rocketseat.
@@ -22,10 +22,7 @@ Alguns conceitos fundamentais do CSS Grid e o comportamento de suas propriedades
 
 2- Como apliquei?
 
-Criando de forma prática através de um desenvolvimento da uma estrutura básica em HTML
-e um estilo em CSS, fixando os conceitos principais do CSS GRID que 
-aplicados em uma página WEB. 
-
+Criado de forma prática através de uma estrutura básica em HTML e um estilo em CSS, fixando os conceitos principais do CSS GRID que foram aplicados em uma página WEB. 
 
 
 🚀 Tecnologias
