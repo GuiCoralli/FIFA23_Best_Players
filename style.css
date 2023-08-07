@@ -43,6 +43,9 @@ header p {
 
 main {
     margin-top: 20px;
+    width: 1024px;
+    height: 100%;    
+    border: 1px solid red;
     
     display: grid;
 
@@ -53,7 +56,12 @@ main {
 
 }
 
-
+.images {
+    
+    width: 100vh;
+    margin-top: 100px;
+    right: 0;
+}
 
 .card {    
     background: #202024;
