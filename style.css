@@ -12,7 +12,7 @@ body{
     background:  #121214;
 
     display: grid;
-    justify-content: center;
+    justify-content: start;
     align-items: center;
 
     
