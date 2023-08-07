@@ -6,7 +6,7 @@ adquiridos durante as aulas do curso da Rocketseat do Stage 03 no Explorer.
 
 Descubra quais são os 8 maiores jogadores do game FIFA 2023 e curiosidades sobre eles.
 
-Aprendizado:
+🧠Aprendizado:
 
 Com a criação deste projeto, de forma independente, pude me desafiar e assim fixar os
 conteúdos aprendidos no Stage 03 - Explorer na plataforma de ensino da Rocketseat.
@@ -31,7 +31,7 @@ aplicados em uma página WEB.
 🚀 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-(logo) HTML
-(logo) CSS
+ ## HTML
+ ## CSS
 
 Feito com ♥ by GuiCoralli.
