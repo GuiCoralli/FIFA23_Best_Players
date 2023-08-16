@@ -1,3 +1,7 @@
+
+![PROJETO GIFFORFIFA](https://github.com/GuiCoralli/FIFA23_Best_Players/assets/134714337/a7bc0fae-c596-4e09-82fd-986c298a5de7)
+
+
 ## 💻 Projeto
 
 Esse projeto foi desenvoldido como forma de fixar os conhencimentos
