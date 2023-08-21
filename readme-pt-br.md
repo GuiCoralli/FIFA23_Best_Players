@@ -11,7 +11,7 @@
 
 ## 💻 Projeto
 
-Esse projeto foi desenvoldido como forma de fixar os conhencimentos
+Esse projeto foi desenvoldido como forma de fixar os conhecimentos
 adquiridos durante as aulas do curso da Rocketseat do Stage 03 no Explorer.
 
 ## 📜 Sobre:
