@@ -9,7 +9,7 @@ adquiridos durante as aulas do curso da Rocketseat do Stage 03 no Explorer.
 
 ## 📜 Sobre:
 
-Descubra quais são os 8 maiores jogadores do game FIFA 2023 e curiosidades sobre eles.
+Criação de cards interativos com informações dos jogadores do FIFA 2023.
 
 ## 🧠 Aprendizado:
 
@@ -34,7 +34,13 @@ Criado de forma prática através de uma estrutura básica em HTML e um estilo e
 ## 🚀 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
- <h3>HTML</h3> 
- <h3>CSS</h3>
-
-Feito com ♥ by GuiCoralli.
+ <div>
+ <img align="center" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ </div>
+ 
+ ##
+ 
+<footer>
+<center> Feito com ♥ by GuiCoralli. </center>
+</footer>
