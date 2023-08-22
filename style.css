@@ -6,40 +6,52 @@
 
 :root {
     font-family: Mulish;
+    font-size: 62.5%;
 }
 
-body{
+body {
     background:  #121214;
-
+    max-width: 33.0rem;
     display: grid;
     justify-content: start;
     align-items: center;
-    padding: 70px 100px;   
+    padding: 6.0rem 2.3rem 6.6rem;  
+    
 }
 
 header h1 {
-    color: #02799D;
+    color: hsl(194, 97%, 31%);
     font-family: Mulish;
-    font-weight: 900;
-    line-height: 50px;
+    text-align: center;
+    font-size: 2.8rem;
+    font-weight: 800;
+    
+    
 }
 
 header p {
     color:#E1E1E6;
-    font-size: 32px;
-    font-style: normal;
-    font-weight: 600;
-    line-height: 40px;
+    font-family: Mulish;
+    font-size: 2.2rem;
+    text-align: center;
+    font-weight: 400;
+
+    margin-top: 1.8rem;
+
+    
+    
+}
+.page {
+    padding: 7rem 10rem;
+    
+    
 }
 
 main {
-    margin-top: 20px;
-    width: 1024px;
-    height: 100%;    
-        
+    margin-top: 2rem;
     display: grid;
-    grid-template-columns: repeat(4, 322px); /*Tamanho total da caixa(3da borda)*/
-    gap: 48px 60px;
+    grid-template-columns: repeat(4, 1 fr); /*Tamanho total da caixa(3da borda)*/
+    gap: 4.8rem 6rem;    
 }
 
 img {
@@ -48,16 +60,17 @@ img {
 }
 
 .images {
-    margin-top: 100px;
+    margin-top: 10.0rem;
     right: 0;   
 }
 
 .card {
-    width: 100%;
-    height: 100%;
+    width: 25rem;
+    height: 56rem;
     background: #202024;
-    border-radius: 20px;
+    border-radius: 2.0rem;
     overflow: hidden;
+    
 }
 
 .card img {
@@ -73,17 +86,58 @@ img {
 }
 
 .card h2 {
-   
-    font-weight: 800;
-    text-align: center;
-    padding: 10px 10px 0;
     color:#C4C4CC;
+    font-size: 1.8rem;
+    text-align: center;
+    font-weight: 800;
+    padding: 1.0rem 1.0rem 0;
 }
 
 .card p {
     color:#C4C4CC;
-    font-size: 18px;
-    text-align:left;
+    font-size: 1.4rem;
+    text-align: left;
+    text-justify: auto;
     font-weight: 600;
-    padding: 10px 10px 0;
+    padding: 1.0rem 1.0rem 0;
+}
+
+@media (max-width: 1440px) {
+    main {
+        grid-template-columns: repeat(3, 1fr);
+
+        gap: 4rem 4rem;
+    }    
+}
+
+@media (max-width: 768px) {
+    main {
+        grid-template-columns: repeat(1, 1fr);
+
+        gap: 3rem;
+
+    }
+}
+
+footer {
+    margin-top: 6.0rem;
+    text-align: center;
+    padding: 2.2rem 1.1rem;
+        
+    font-style: italic;
+    font-weight: 600;
+    font-size: 1.8rem;
+    color: hsl(194, 97%, 31%);
+
+    
+    
+    background: #202024;
+    border-radius: 6.0rem;
+}
+
+footer a {
+
+ color: hsl(194, 97%, 31%);
+ font-weight: 600;
+ font-size: 1.8rem;
 }
