@@ -11,11 +11,13 @@
 
 body {
     background:  #121214;
-    max-width: 33.0rem;
+    width: 33rem;; 
+    min-height: 100vh;
     display: grid;
     justify-content: start;
     align-items: center;
     padding: 6.0rem 2.3rem 6.6rem;  
+    border: 1px solid red;
     
 }
 
@@ -42,16 +44,15 @@ header p {
     
 }
 .page {
-    padding: 7rem 10rem;
-    
-    
+    padding: 2rem 2rem;
+    border: 1px solid whitesmoke;
 }
 
 main {
-    margin-top: 2rem;
+    margin: 2rem;
     display: grid;
-    grid-template-columns: repeat(4, 1 fr); /*Tamanho total da caixa(3da borda)*/
-    gap: 4.8rem 6rem;    
+          
+    border: 2px solid blue; 
 }
 
 img {
@@ -102,7 +103,17 @@ img {
     padding: 1.0rem 1.0rem 0;
 }
 
-@media (max-width: 1440px) {
+
+@media (max-width: 256rem) {
+    main {
+        grid-template-columns: repeat(2, 1fr);
+
+        gap: 6rem 6rem;
+    }    
+}
+
+
+@media (max-width: 144rem) {
     main {
         grid-template-columns: repeat(3, 1fr);
 
@@ -110,9 +121,9 @@ img {
     }    
 }
 
-@media (max-width: 768px) {
+@media (max-width: 76.8rem) {
     main {
-        grid-template-columns: repeat(1, 1fr);
+        grid-template-columns: repeat(2, 1fr);
 
         gap: 3rem;
 
