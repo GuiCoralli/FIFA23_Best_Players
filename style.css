@@ -16,8 +16,7 @@ body {
     display: grid;
     justify-content: start;
     align-items: center;
-    padding: 6.0rem 2.3rem 6.6rem;  
-    border: 1px solid red;
+    padding: 6.0rem 2.3rem 6.6rem;
     
 }
 
@@ -27,8 +26,6 @@ header h1 {
     text-align: center;
     font-size: 2.8rem;
     font-weight: 800;
-    
-    
 }
 
 header p {
@@ -39,20 +36,15 @@ header p {
     font-weight: 400;
 
     margin-top: 1.8rem;
-
-    
-    
 }
+
 .page {
     padding: 2rem 2rem;
-    border: 1px solid whitesmoke;
 }
 
 main {
     margin: 2rem;
-    display: grid;
-          
-    border: 2px solid blue; 
+    display: grid;      
 }
 
 img {
@@ -71,7 +63,6 @@ img {
     background: #202024;
     border-radius: 2.0rem;
     overflow: hidden;
-    
 }
 
 .card img {
