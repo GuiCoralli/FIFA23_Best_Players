@@ -32,6 +32,7 @@ header > h1 {
     text-align: center;
     font-size: 3.6rem;
     font-weight: 800;
+    
 }
 
 header > p {
@@ -54,10 +55,11 @@ main {
 
 .images {
     margin-top: 10.0rem;  
+    align-items: center;
 }
 
 .card {
-    width: 30rem;
+    width: 28rem;
     height: 52rem;
 
 
@@ -66,16 +68,15 @@ main {
   
     display: flex;
     flex-direction: column;
-
+    
     gap: 1rem;
     padding: 2rem;
     
     overflow: hidden;
-    border:1px solid #c4c4cc;
 }
 
 .card > img {
-  max-width: 30rem;
+  max-width: 25rem;
   max-height: 30rem;
   width: 100%;
   margin-inline: auto;
@@ -131,11 +132,13 @@ footer > a {
 
 /* MEDIA QUERIES */
 
-@media (max-width: 768px) {
+@media (max-width: 425px) {
     main {
         display: flex;
         flex-direction: column;
+        align-items: center;
         gap: 2rem;
+       
     }
  }
 
@@ -150,18 +153,31 @@ footer > a {
 
 @media (min-width: 768px) and (max-width: 1024px) {
     main {
-      grid-template-columns: repeat(2, 1fr);
+     grid-template-columns: repeat(2, 1fr);
+     padding: 4rem 8rem;
+     align-items: center;
+     
+     gap: 2rem;
+     
     }
 }
   
 @media (min-width: 1024px) and (max-width: 1440px) {
     main {
       grid-template-columns: repeat(3, 1fr);
+      flex-direction: column;
+      align-items: center;
+      padding: 10rem 4rem;
+      gap: 2rem;
+      
     }
 }
   
   @media (min-width: 2559px) {
     main {
-      grid-template-columns: repeat(5, 1fr);
+      grid-template-columns: repeat(4, 1fr);
+      padding: 10rem 40rem;
+      gap: 4rem;
+
     }
 }
