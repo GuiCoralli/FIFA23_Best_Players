@@ -29,11 +29,11 @@ conteúdos aprendidos no Stage 03 - Explorer na plataforma de ensino da Rocketse
 
 Alguns conceitos fundamentais do CSS Grid e o comportamento de suas propriedades como:
 
- - Propriedades Fundamentais do Grid: (`Grid Template Columns`, `Grid Template Columns` e `Grid Template Areas`);
+ - Propriedades Fundamentais do Grid: `Grid Template Columns`, `Grid Template Rows` e `Grid Template Areas`;
  - Propriedades de Alinhamento do Grid: `align-content`,`place-content`, `align-items`,`justify-items` e `place-items`;
- - Propriedades Auto: `grid-auto-flow`  - `grid-auto-rows` e  `grid-auto-columns`;
- - GRID OU FLEX
+ - Propriedades Auto: `grid-auto-flow`, `grid-auto-rows` e  `grid-auto-columns`;
  - Estilização do Card: `card:hover img`, `cursor: pointer`, `transform: scale(1.1)`
+ - Responsividade: `regra mobile-first`, `medidas flexíveis (% e rem)` , `max-width`, `@media (Media queries)`
 
 ## 2- Como apliquei?
 
