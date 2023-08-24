@@ -4,7 +4,9 @@
  ## Tradução 
  <p align="center">
    ·
-  <a href="https://github.com/GuiCoralli/FIFA23_Best_Players/edit/main/README.md"> English
+  <a href="https://github.com/GuiCoralli/FIFA23_Best_Players/blob/main/readme-pt-br.md"> Português
+  ·
+  <a href="https://github.com/GuiCoralli/FIFA23_Best_Players/blob/main/README.md"> English
   </a>
 
 ##
