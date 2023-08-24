@@ -30,11 +30,11 @@ contents learned in Stage 03 - Explorer on Rocketseat's teaching platform.
 
 Some fundamental concepts of CSS Grid and the behavior of its properties such as:
 
- - Fundamental properties of the Grid: `Grid Template Columns`, `Grid Template Columns` e `Grid Template Areas`;
- - Grid aligment properties: `align-content`,`place-content`, `align-items`,`justify-items` e `place-items`;
- - Auto properties : `grid-auto-flow`  - `grid-auto-rows` e  `grid-auto-columns`;
- - Card stylizaton: `card:hover img`, `cursor: pointer`, `transform: scale(1.1)`
- - Responsiveness: `rule mobile-first`, `flexible measures (% e rem)` , `max-width`, `@media (media queries)`
+ - Fundamental properties of the Grid: `Grid Template Columns` `Grid Template Columns` `Grid Template Areas`;
+ - Grid aligment properties: `align-content` `place-content` `align-items` `justify-items` `place-items`;
+ - Auto properties : `grid-auto-flow`  `grid-auto-rows`   `grid-auto-columns`;
+ - Card stylizaton: `card:hover img` `cursor: pointer` `transform: scale(1.1)`
+ - Responsiveness: `rule mobile-first` `flexible measures (% and rem)`  `max-width` `@media (media queries)`
 
 ## 2- How did I apply?
 
