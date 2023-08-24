@@ -15,7 +15,10 @@ Exclusive and independent design, made by GuiCoralli to fix the learning of WEB 
 
 ![PROJETO GIFFORFIFA 2(atual)](https://github.com/GuiCoralli/FIFA23_Best_Players/assets/134714337/ece0d8fb-4fa1-449d-8a51-761e41a100e1)
 
+ ## 
+ 
  ## Translation
+ 
  <p align="center">
    ·
   <a href="https://github.com/GuiCoralli/FIFA23_Best_Players/blob/main/readme-pt-br.md"> Português
