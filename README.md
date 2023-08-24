@@ -1,5 +1,19 @@
+<h1 align="center"> FIFA23 - Best Players </h1>
 
-![PROJETO GIFFORFIFA](https://github.com/GuiCoralli/FIFA23_Best_Players/assets/134714337/a7bc0fae-c596-4e09-82fd-986c298a5de7)
+<p align="center">
+Exclusive and independent design, made by GuiCoralli to fix the learning of WEB applications technologies.
+</p>
+
+<p align="center">
+  <a href="#-Translation">Translation</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-About">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
+
+##
+
+![PROJETO GIFFORFIFA 2(atual)](https://github.com/GuiCoralli/FIFA23_Best_Players/assets/134714337/ece0d8fb-4fa1-449d-8a51-761e41a100e1)
 
  ## Translation
  <p align="center">
