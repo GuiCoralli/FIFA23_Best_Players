@@ -9,13 +9,15 @@ Exclusive and independent design, made by GuiCoralli to fix the learning of WEB 
   <a href="#-Project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-About">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Install">Install</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 ##
 
 ![PROJETO GIFFORFIFA 2(atual)](https://github.com/GuiCoralli/FIFA23_Best_Players/assets/134714337/ece0d8fb-4fa1-449d-8a51-761e41a100e1)
 
- ## 
+
+## 
  
  ## Translation
  
@@ -65,6 +67,12 @@ This project was developed with the following technologies:
  <img align="center" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  </div>
+
+ ## 💾 Install
+
+1) Install  vscode and following extensions index.html and style.css
+2) Clone the repository from vscode terminal
+3) Use live server for launching the project on a local server
  
  ##
  
